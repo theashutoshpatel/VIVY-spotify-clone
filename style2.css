@@ -1,0 +1,74 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    text-align: center;
+    max-width: 995px;
+    border: 2px solid black;
+    background-image: url('bg1.jpeg');
+    margin: auto;
+    height: 60vh;
+    padding: 33px;
+}
+
+.btn-submit {
+    max-width: 500px;
+    border-radius: 40px;
+    border: 2px solid black;
+    height: 30px;
+    width: 500px;
+    margin-right: 180px;
+    margin-left: 180px;
+    text-align: center;
+}
+
+.btn-submit1 {
+    max-width: 500px;
+    border-radius: 40px;
+    border: 2px solid black;
+    height: 30px;
+    width: 500px;
+    margin-right: 210px;
+    margin-left: 210px;
+    text-align: center;
+}
+
+.hello {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 300px;
+}
+
+a {
+    color: black;
+}
+
+a:link {
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+
+a:hover {
+    background-color: rgb(203, 165, 68);
+    border-radius: 30px;
+}
+
+.hello1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    text-align: right;
+    margin-top: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
